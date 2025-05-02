@@ -105,6 +105,7 @@ The card guessing game is managed through the **CardGame** component:
 
 ---
 
+
 ## Author
 
 **Xoli Nxiweni**  
@@ -112,3 +113,5 @@ Email: xolinxiweni@gmail.com
 GitHub: [Xoli-Nxiweni](https://github.com/Xoli-Nxiweni)
 
 ---
+
+**HAPPY PLAYING**
